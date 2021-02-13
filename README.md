@@ -1,2 +1,2 @@
 # GreenCity
-I/T and Marketing Stuctur
+I/T and Marketing Stucture
